@@ -11,3 +11,7 @@ My favorite:
 I'm usually use:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" heigh="50">
+
+
+Mid knowladge:
+<img src="https://www.ruby-lang.org/images/header-ruby-logo.png](https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" width="50" heigh="50">

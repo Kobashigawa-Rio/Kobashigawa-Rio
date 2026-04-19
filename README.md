@@ -6,3 +6,8 @@ I'm Rio i usually use de nickname AkumaHeart on Discord or Videogames. Also I'm 
 My favorite:
 
 <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" with="50" heigh="50">
+
+
+I'm usually use:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" with="50" heigh="50">

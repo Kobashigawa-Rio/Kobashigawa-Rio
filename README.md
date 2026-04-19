@@ -14,7 +14,7 @@ I'm usually use:
 
 Mid knowladge:
 
-![Mid](https://skillicons.dev/icons?i=nodejs,html,css,react,discordjs&perline=13)
+![Mid](https://skillicons.dev/icons?i=html,css,react,nodejs,discordjs&perline=13)
 
 Barely Know:
 

@@ -31,5 +31,5 @@ Tools:
 ![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,eclipse,unity,robloxstuidio,replit,ps,ai,blender&perline=13)
 
 OS:
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwindows-11-logo-in-svg-format-v0-sudz5o3s1vn91.png" width="50" height="50">
+<img src="https://365cloudstore.com/wp-content/uploads/2023/02/windows-11-500x500-01.png" width="50" height="50">
 <img src="https://www.bodhilinux.com/trial/wp-content/uploads/2015/01/LEAFLOGO.png?x44384" width="50" height="50">

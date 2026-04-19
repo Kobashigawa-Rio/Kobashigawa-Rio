@@ -15,12 +15,13 @@ I'm usually use:
 
 Mid knowladge:
 
-(https://skillicons.dev/icons?i=nodejs,html,css,react&perline=13)
+![Mid](https://skillicons.dev/icons?i=nodejs,html,css,react&perline=13)
 
 Barely Know:
-(https://skillicons.dev/icons?i=nodejs,html,css,react&perline=13)
-<img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
+
+![Barely](https://skillicons.dev/icons?i=ruby,js,cs,lua&perline=13)
 
 
 I see once:
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50" height="50">
+
+![One](https://skillicons.dev/icons?i=py,java&perline=13)

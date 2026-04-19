@@ -15,9 +15,10 @@ I'm usually use:
 
 Mid knowladge:
 
-![Mid](https://skillicons.dev/icons?i=nodejs,html,css,react&perline=13)
+(https://skillicons.dev/icons?i=nodejs,html,css,react&perline=13)
 
 Barely Know:
+(https://skillicons.dev/icons?i=nodejs,html,css,react&perline=13)
 <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
 
 

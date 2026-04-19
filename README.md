@@ -28,7 +28,7 @@ I see once:
 
 Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,androidstudio,eclipse,unity,robloxstudio,replit,ps,ai,blender&perline=13)
+![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,androidstudio,eclipse,unity,robloxstudio,replit,ps,ai,blender,discord&perline=13)
 
 OS:
 <img src="https://preview.redd.it/windows-11-logo-in-svg-format-v0-sudz5o3s1vn91.png?width=1080&format=png&auto=webp&s=196ef4f2bff864c6d3f58b074fa32479a285ab49" width="50" height="50">

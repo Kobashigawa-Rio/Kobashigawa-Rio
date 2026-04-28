@@ -175,10 +175,15 @@ int main()
             cout << " Show number of patients by speciality: " << endl;
             CountSpec();
             break;
-        default:
-            opt = 5;
+        case 5:
             system("CLS");
             cout << "Press any key to exit";
+            break;
+        default:
+            system("CLS");
+            cout << "Error: Invalid Option" << endl << endl;
+            opt = 0;
+            cout << "Press any key to return to the main menu";
             break;
         }
 

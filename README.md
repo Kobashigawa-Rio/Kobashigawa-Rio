@@ -27,7 +27,7 @@ I see once:
 
 Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,androidstudio,eclipse,figma,unity,robloxstudio,replit,ps,ai,blender,discord&perline=15)
+![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,vscode,androidstudio,eclipse,figma,unity,robloxstudio,replit,ps,ai,blender,discord&perline=15)
 
 Desktop/Laptop OS:
 

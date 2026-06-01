@@ -29,7 +29,11 @@ Tools:
 
 ![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,vscode,androidstudio,eclipse,figma,unity,robloxstudio,replit,ps,ai,blender,discord&perline=15)
 
-Desktop/Laptop OS:
+Desktop OS:
+
+<img src="https://preview.redd.it/windows-11-logo-in-svg-format-v0-sudz5o3s1vn91.png?width=1080&format=png&auto=webp&s=196ef4f2bff864c6d3f58b074fa32479a285ab49" width="50" height="50"> <img src="https://www.bodhilinux.com/trial/wp-content/uploads/2015/01/LEAFLOGO.png?x44384" width="50" height="50">
+
+Laptop OS:
 
 <img src="https://preview.redd.it/windows-11-logo-in-svg-format-v0-sudz5o3s1vn91.png?width=1080&format=png&auto=webp&s=196ef4f2bff864c6d3f58b074fa32479a285ab49" width="50" height="50"> <img src="https://www.bodhilinux.com/trial/wp-content/uploads/2015/01/LEAFLOGO.png?x44384" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" width="50" height="50">
 

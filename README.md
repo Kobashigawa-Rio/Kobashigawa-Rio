@@ -1,4 +1,4 @@
-I'm Rio i usually use de nickname AkumaHeart on Discord or Videogames. Also I'm Software engineering Student. I'm a Girl btw.
+I'm Rio i usually use de nickname AkumaHeart on Discord or Videogames. Also I'm Software engineering Student. I'm a Girl btw. I studiet SCRUM and Lean Metodologies. and the OOP Paradigm.
 
 ### The most fun part... Programming Languages
 

@@ -23,11 +23,11 @@ Barely Know:
 
 I see once:
 
-![One](https://skillicons.dev/icons?i=py,java&perline=13)
+![One](https://skillicons.dev/icons?i=py,java,kotlin&perline=13)
 
 Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,vscode,androidstudio,eclipse,figma,unity,robloxstudio,replit,ps,ai,blender,discord&perline=15)
+![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,vscode,clion,androidstudio,eclipse,figma,unity,robloxstudio,replit,ps,ai,blender,discord&perline=15)
 
 Desktop OS:
 

@@ -23,7 +23,8 @@ Barely Know:
 
 I see once:
 
-![One](https://skillicons.dev/icons?i=py,java,kotlin&perline=13)
+![One](https://skillicons.dev/icons?i=py,java,kotlin&perline=13) <img src="https://plugins.jetbrains.com/files/25303/1160061/icon/default.svg" width="50" height="50">
+
 
 Tools:
 

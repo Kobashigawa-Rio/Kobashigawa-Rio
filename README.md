@@ -14,11 +14,11 @@ I'm usually use:
 
 Mid knowladge:
 
-![Mid](https://skillicons.dev/icons?i=html,css,react,nodejs,discordjs&perline=13)
+![Mid](https://skillicons.dev/icons?i=ruby,html,css,react,nodejs,discordjs&perline=13)
 
 Barely Know:
 
-![Barely](https://skillicons.dev/icons?i=ruby,js,cs,lua&perline=13)
+![Barely](https://skillicons.dev/icons?i=js,cs,lua&perline=13)
 
 
 I see once:
@@ -28,7 +28,7 @@ I see once:
 
 Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,vscode,clion,androidstudio,eclipse,figma,unity,robloxstudio,replit,ps,ai,blender,discord&perline=15)
+![Tools](https://skillicons.dev/icons?i=git,github,atom,visualstudio,vscode,clion,androidstudio,eclipse,figma,unity,robloxstudio,replit,qt,ps,ai,blender,discord&perline=17)
 
 Desktop OS:
 
